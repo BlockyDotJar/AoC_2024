@@ -22,3 +22,7 @@ Like I said, this is not the *best* or maybe not even a *good* solution.
 | 01 - Historian Hysteria | ✅      | ✅      |
 | 02 - Red-Nosed Reports  | ✅      | ❌      |
 | 03 - Mull It Over       | ✅      | ✅      |
+| 04 - Ceres Search       | ❌      | ❌      |
+| 05 - Print Queue        | ❌      | ❌      |
+| 06 - Guard Gallivant    | ✅      | ❌      |
+| 07 - Bridge Repair      | ❌      | ❌      |

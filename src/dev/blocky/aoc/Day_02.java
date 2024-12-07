@@ -94,7 +94,7 @@ public class Day_02
     }
 
     @Unsolved(willSolveInFuture = false)
-    public static long part2(@SuppressWarnings("unused") List<String> lines)
+    public static int part2(@SuppressWarnings("unused") List<String> lines)
     {
         return -1;
     }
