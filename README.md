@@ -17,12 +17,13 @@ Like I said, this is not the *best* or maybe not even a *good* solution.
 
 **Java Version used:** 21.0.5
 
-| Day - Challenge name    | Part 1 | Part 2 |
-|-------------------------|--------|--------|
-| 01 - Historian Hysteria | ✅      | ✅      |
-| 02 - Red-Nosed Reports  | ✅      | ❌      |
-| 03 - Mull It Over       | ✅      | ✅      |
-| 04 - Ceres Search       | ❌      | ❌      |
-| 05 - Print Queue        | ❌      | ❌      |
-| 06 - Guard Gallivant    | ✅      | ❌      |
-| 07 - Bridge Repair      | ❌      | ❌      |
+| Day - Challenge name       | Part 1 | Part 2 |
+|----------------------------|--------|--------|
+| 01 - Historian Hysteria    | ✅      | ✅      |
+| 02 - Red-Nosed Reports     | ✅      | ❌      |
+| 03 - Mull It Over          | ✅      | ✅      |
+| 04 - Ceres Search          | ❌      | ❌      |
+| 05 - Print Queue           | ❌      | ❌      |
+| 06 - Guard Gallivant       | ✅      | ❌      |
+| 07 - Bridge Repair         | ❌      | ❌      |
+| 08 - Resonant Collinearity | ❌      | ❌      |
